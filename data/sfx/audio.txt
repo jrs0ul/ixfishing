@@ -1,0 +1,5 @@
+click.ogg
+reel.ogg
+cash.ogg
+drop.ogg
+snap.ogg

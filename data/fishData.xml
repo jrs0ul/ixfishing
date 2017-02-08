@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<Fishes>
+    <Fish picIndex="0" response="5" price="5">
+        <Name>perch</Name>
+        <Depth max="1" min="40"/>
+        <Eats>
+            <Food id="1" smell="20"/>
+            <Food id="3" smell="30"/>
+            <Food id="4" smell="10"/>
+        </Eats>
+        <Weight max="500" min="80"/>
+    </Fish>
+    
+    <Fish picIndex="1" response="10" price="2">
+        <Name>roach</Name>
+        <Depth max="1" min="59"/>
+        <Eats>
+            <Food id="2" smell="60"/>
+            <Food id="1" smell="30"/>
+            <Food id="5" smell="50"/>
+        </Eats>
+        <Weight max="500" min="60"/>
+    </Fish>
+    
+    <Fish picIndex="2" response="8" price="10">
+        <Name>pike</Name>
+        <Depth max="1" min="20"/>
+        <Eats>
+            <Food id="1" smell="0"/>
+            <Food id="3" smell="50"/>
+            <Food id="4" smell="40"/>
+        </Eats>
+        <Weight max="950" min="500"/>
+    </Fish>
+    
+    <Fish picIndex="13" response="6" price="9">
+        <Name>zander</Name>
+        <Depth max="1" min="25"/>
+        <Eats>
+            <Food id="1" smell="5"/>
+            <Food id="3" smell="40"/>
+            <Food id="4" smell="50"/>
+        </Eats>
+        <Weight max="800" min="200"/>
+    </Fish>
+    
+    <Fish picIndex="16" response="2" price="2">
+        <Name>ruffe</Name>
+        <Depth max="1" min="59"/>
+        <Eats>
+            <Food id="1" smell="20"/>
+            <Food id="2" smell="10"/>
+            <Food id="5" smell="50"/>
+        </Eats>
+        <Weight max="80" min="30"/>
+    </Fish>
+    
+    <Fish picIndex="17" response="11" price="4">
+        <Name>bream</Name>
+        <Depth max="1" min="40"/>
+        <Eats>
+            <Food id="1" smell="20"/>
+            <Food id="2" smell="50"/>
+            <Food id="5" smell="50"/>
+        </Eats>
+        <Weight max="950" min="100"/>
+    </Fish>
+
+    <Fish picIndex="26" response="9" price="12">
+        <Name>catfish</Name>
+        <Depth max="1" min="20"/>
+        <Eats>
+            <Food id="1" smell="5"/>
+            <Food id="3" smell="10"/>
+            <Food id="4" smell="10"/>
+        </Eats>
+        <Weight max="1000" min="850"/>
+    </Fish>
+
+    
+</Fishes>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Baits>
+    <Bait countInShop="0" usedCount="0" maxCount="0">
+        <Name>empty</Name>
+        <Units> </Units>
+        <Price>0</Price>
+    </Bait>
+    <Bait countInShop="200" usedCount="10" maxCount="1000">
+        <Name>earthworms</Name>
+        <Units>g</Units>
+        <Price>2</Price>
+    </Bait>
+    <Bait countInShop="200" usedCount="10" maxCount="1200">
+        <Name>paste</Name>
+        <Units>g</Units>
+        <Price>4</Price>
+    </Bait>
+    <Bait countInShop="1" usedCount="0" maxCount="100">
+        <Name>spinner lure</Name>
+        <Units> </Units>
+        <Price>8</Price>
+    </Bait>
+    <Bait countInShop="1" usedCount="0" maxCount="100">
+        <Name>twister lure</Name>
+        <Units> </Units>
+        <Price>9</Price>
+    </Bait>
+    <Bait countInShop="100" usedCount="5" maxCount="500">
+        <Name>maggots</Name>
+        <Units>g</Units>
+        <Price>3</Price>
+    </Bait>
+
+</Baits>
